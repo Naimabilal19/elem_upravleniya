@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dz_album", "dz_album\dz_album.csproj", "{6276F891-0450-4540-98C7-6D4D96B9FA64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6276F891-0450-4540-98C7-6D4D96B9FA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6276F891-0450-4540-98C7-6D4D96B9FA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6276F891-0450-4540-98C7-6D4D96B9FA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6276F891-0450-4540-98C7-6D4D96B9FA64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14788D66-7EFB-497E-B83D-26BF50A83BFF}
+	EndGlobalSection
+EndGlobal

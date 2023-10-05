@@ -1,0 +1,5 @@
+C:\Users\Bila_jp56\source\repos\dz_album\dz_album\obj\Debug\dz_album.csprojAssemblyReference.cache
+C:\Users\Bila_jp56\source\repos\dz_album\dz_album\obj\Debug\dz_album.Form1.resources
+C:\Users\Bila_jp56\source\repos\dz_album\dz_album\obj\Debug\dz_album.Properties.Resources.resources
+C:\Users\Bila_jp56\source\repos\dz_album\dz_album\obj\Debug\dz_album.csproj.GenerateResource.cache
+C:\Users\Bila_jp56\source\repos\dz_album\dz_album\obj\Debug\dz_album.csproj.CoreCompileInputs.cache
